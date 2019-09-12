@@ -1,0 +1,45 @@
+
+
+.avatar_styling img {
+    width: 200px;
+    height: 200px;
+}
+/* .avatar_styling:hover {
+    width: 300px;
+    
+} */
+.avatar_styling p{
+    color: white;
+    font-weight: bolder;
+}
+@font-face {
+    font-family: myFirstFont;
+    src: url(fonts/Gugi-Regular.ttf);
+  }
+.avatar_styling {
+
+margin: auto;
+}
+body {
+    background-color: rgb(206, 128, 128);
+    font-family: 'myFirstFont', cursive;
+}
+.mainpage {
+     height: 90vh;
+     width:95%;
+     margin: auto;
+}
+.btn1 {
+font-weight: bolder;
+
+color: hsla(0, 0%, 93%, 0.493);
+background-color: green;
+border: none;
+padding: 12px;
+border-radius: 15px;
+
+}
+.container1 {
+    width: 90%;
+    margin: auto;
+}

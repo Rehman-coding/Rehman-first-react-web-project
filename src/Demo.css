@@ -1,0 +1,9 @@
+.maindiv_style p{
+font-weight: bolder;
+color: whitesmoke;
+}
+.maindiv_style {
+    background-color: red;
+    text-align: center;
+    padding: 33px;
+}
